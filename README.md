@@ -359,6 +359,9 @@ Hasta pronto.
 `python -m unittest pruebas -v` → **20 pruebas, todas exitosas** (cubren los 8 casos de la tabla del taller, cada validación obligatoria y la persistencia entre ejecuciones).
 
 ### Capturas de pantalla
+#REGISTRO EXITOSO
+<img width="409" height="285" alt="Captura" src="https://github.com/user-attachments/assets/181686ee-57ef-4742-abb4-3f83ff126043" />
+
 
 <!-- Agrega aquí tus capturas, por ejemplo:
 ![Registro exitoso](evidencias/01_registro.png)

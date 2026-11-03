@@ -361,6 +361,9 @@ Hasta pronto.
 ### Capturas de pantalla
 #REGISTRO EXITOSO
 <img width="409" height="285" alt="Captura" src="https://github.com/user-attachments/assets/181686ee-57ef-4742-abb4-3f83ff126043" />
+#VENTA RECHAZADA
+<img width="614" height="277" alt="image" src="https://github.com/user-attachments/assets/91291774-b97f-4fea-b8e7-7e9aa50dc09a" />
+
 
 
 <!-- Agrega aquí tus capturas, por ejemplo:
